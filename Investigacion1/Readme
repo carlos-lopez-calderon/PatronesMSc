@@ -1,0 +1,28 @@
+Tecnologico de Costa Rica
+Programa de Maestria en Sistemas Empotrados.
+
+Estudiante: Carlos Lopez Calderon
+
+
+Investigacion #1  - Estrategias de procesado y EDA
+
+
+Requerimientos:
+Para ejecutar el notebook correspondiente a la investigacion 1, por favor asegurese de contar con los siguientes tools/software:
+
+1- miniconda
+2- numpy 
+3- matplotlib 
+4- pandas 
+5- scikit-learn 
+6- jupyter notebook
+7- python3
+8- seaborn
+
+Posteriormente ejecute el siguiente jupyter notebook
+
+- Notebook: ***Investigacion1.ipynb***
+ 
+EL archivo de datos o data set que es utilizado por el jupyter notebook es:
+
+- Data: ***data.csv*** 
